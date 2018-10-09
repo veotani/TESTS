@@ -2,7 +2,7 @@
 
 Welcome to TESTS!
 
-Tremendously Efficient Scaleable Tests Storage
+Tremendously Efficient Scalable Tests Storage
 
 Here are the members of our team:
 - Алёна Ашихмина [aserg24](https://github.com/aserg24)
